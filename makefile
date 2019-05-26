@@ -17,7 +17,7 @@ README.md: guessinggame.sh
 	echo >> README.md
 	echo "So long, farewell, auf wiedersehen...and thanks for all the fish." >> README.md
 		echo >> README.md
-	echo "***Sean Kross's*** *UCSD** & **Coursera**, *Unix Workbench* course assignment" >> README.md
+	echo "***Sean Kross's*** **UCSD** & **Coursera**, *Unix Workbench* course assignment" >> README.md
 	echo "(c) Michael Cunningham, May 2019" >> README.md
 	
 
