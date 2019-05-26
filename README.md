@@ -2,7 +2,7 @@
 ## The crazy game where you guess how many files are in your directory,
 ### And thereby enjoy endless hours of speculative fun.
 
-README.md file was made on Sun May 26 23:57:12 AEST 2019
+README.md file was made on Mon May 27 00:08:35 AEST 2019
 
 guessinggame.sh contains 29 lines of code.
 Which are conveniently reproduced below for your scrutiny.
@@ -41,5 +41,6 @@ echo "Well done! There are" $files "files here, including any hidden files (.*)"
 ```
 
 So long, farewell, auf wiedersehen...and thanks for all the fish.
-***Sean Kross***, **Johns Hopkins** & **Coursera**, *Unix Workbench* course assignment
+
+***Sean Kross's*** **Johns Hopkins** & **Coursera**, *Unix Workbench* course assignment
 (c) Michael Cunningham, May 2019
